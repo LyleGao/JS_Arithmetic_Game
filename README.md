@@ -1,0 +1,2 @@
+# JS_Arithmetic_Game
+JavaScript编写的算术小游戏
