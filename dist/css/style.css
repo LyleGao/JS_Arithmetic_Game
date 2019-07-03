@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+*{
+	padding:0;
+	margin:0;
+}
+.wrapper{
+    background:aliceblue;
+    width: 80%;
+    margin: 0 auto;
+}
+.header{
+    text-align: center;
+}
+li{
+    margin-left:2em;
+    
+}
+.btn{
+    margin: 1em 50%;
+}
+     

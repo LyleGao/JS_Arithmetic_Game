@@ -1,2 +1,10 @@
-# JS_Arithmetic_Game
-JavaScript编写的算术小游戏
+# JavaScript算术小游戏
+## 用到的知识
++ bootstrop
++ jquery 
+## 游戏简介
++ 选择题数
++ 计时
++ 换卷
+## 页面展示
+![alt 页面展示](https://github.com/gaoleiu/pictures/blob/master/JS/index.png)
