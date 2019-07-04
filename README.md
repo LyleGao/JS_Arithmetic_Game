@@ -8,3 +8,5 @@
 + 换卷
 ## 页面展示
 ![alt 页面展示](https://github.com/gaoleiu/pictures/blob/master/JS/index.png)
+## 核心代码
++ js文件 [style.js](https://github.com/gaoleiu/JS_Arithmetic_Game/blob/master/dist/js/style.js)
